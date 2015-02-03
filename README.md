@@ -1,3 +1,9 @@
+# This project is Deprecated.
+
+See the native matplotlib support for styles
+###http://matplotlib.org/users/style_sheets.html
+
+-- 
  mplrc is a python module which provides an easy way to change
  matplotlib's plotting configuration for specific publications. 
  
